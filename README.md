@@ -1,0 +1,1 @@
+# ipmi_sim_temperature_loggerr
